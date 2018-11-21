@@ -14,7 +14,7 @@ def divide(n1, n2)
   return
 end
 
-puts plus(1, 1)
+puts add(1, 1)
 puts subtract(1, 1)
 puts multiply(1, 1)
 puts divide(1, 1)
